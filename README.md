@@ -2,7 +2,7 @@
 <p> Espero que acomode su estancia porque va a ser un <i> curioso </i> recorrido. </p>
 
 
-<i> 🪞 ɐzǝpuɐɹƃ ns ǝp oɾǝʅⅎǝɹ oʅos un sǝ pɐpᴉuɐɯnɥ ɐ⅂ 🪞 </i>
+ 🪞 <i> ɐzǝpuɐɹƃ ns ǝp oɾǝʅⅎǝɹ oʅos un sǝ pɐpᴉuɐɯnɥ ɐ⅂  </i> 🪞
 
 
 <!--
