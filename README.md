@@ -2,7 +2,7 @@
 <p> Espero que acomode su estancia porque va a ser un <i> curioso </i> recorrido. </p>
 
 
-<i>  .azednarg us ed ojelfer nu olos se dadinamuh elpmis aL. </i>
+<i>  ɐzǝpuɐɹƃ ns ǝp oɾǝʅⅎǝɹ oʅos un sǝ pɐpᴉuɐɯnɥ ɐ⅂ </i>
 
 
 <!--
